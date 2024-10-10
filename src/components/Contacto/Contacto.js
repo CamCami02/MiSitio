@@ -22,14 +22,14 @@ const Contacto = () => {
 
                         <div>
                             <a href="mailto:camilamorlivo01@gmail.com">
-                                <img width="20px" height="20px" src={Gmail}/>
+                                <img alt="" width="20px" height="20px" src={Gmail}/>
                                 Email camilamorlivo01@gmail.com
                             </a>
                         </div>
 
                         <div>
                             <a href="https://wa.me/1554133460">
-                                <img width="20px" height="20px" src={Whatsapp}/>
+                                <img alta="" width="20px" height="20px" src={Whatsapp}/>
                                 Whatsapp +54 9 11 5413-3460
                             </a>
                         </div>

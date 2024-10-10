@@ -10,7 +10,7 @@ const Header = () => {
                 <nav>
 
                     <div>
-                        <img width="200px" height="180px" src={icono}/> 
+                        <img alt="Emoji hi" width="200px" height="180px" src={icono}/> 
 
                         <label className='header-checkbtn'>
                             <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="currentColor" className="list_icon" viewBox="0 0 16 16">
